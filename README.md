@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=dove-zp&color=green&style=flat&label=Profile+Views)
+
 <!--
 **dove-zp/dove-zp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
